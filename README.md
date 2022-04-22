@@ -1,3 +1,5 @@
+<samp>
+  
 # Earned-online-certificates
 I love to study in online to develop my knowledge. 
 
@@ -66,3 +68,5 @@ I love to study in online to develop my knowledge.
 - Data Mining Twitter
 - Neural Nets and Deep Learning
 - Support Vectore Machines
+
+</samp>
